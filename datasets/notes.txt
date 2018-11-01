@@ -1,0 +1,12 @@
+Notes:
+
+10/30/18
+* current dataset is in 5 min chunks open -> close.
+* close does not match open of next 5 min chuck. viz will not match... expect this (note for outliers).
+* will probably fuck up predictions (adjust confidence intervals)
+
+* format of api parser: data['Time Series (5min)']['2018-10-29 14:10:00']['1. open']
+* code can only run in 5 min chucks if using this data set (is there other datasets?)
+
+10/31/18
+*

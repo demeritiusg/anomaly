@@ -11,7 +11,7 @@ import json
 # api key
 # stock symbol
 
-def stock_api_call_time_series_daily(self, symbol, key):
+def stock_api_call_time_series_daily(symbol, key):
 
     with open('../jsons/temp.json', 'wb') as js:
         jsondata = json.load(js)

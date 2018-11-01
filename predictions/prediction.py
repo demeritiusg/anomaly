@@ -3,7 +3,7 @@
 # TODO add boto3
 
 
-# TODO how well does sklearn work with json, df might be better
+# TODO how well does sklearn json or csv/tsv/etc.
 # TODO how far back do we want to predict?
 
 # TODO regression model once a day
